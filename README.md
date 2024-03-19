@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A way to improve the way we learn.**
 
-- 🌱 I’m currently learning **Getting the hang of cyber-security principles.**
+- 🌱 I’m currently **Getting the hang of cyber-security principles.**
 
 <p align="left">
 </p>

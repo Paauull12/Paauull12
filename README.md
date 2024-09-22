@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning anything related to SWE and Cybersecurity.<br>🎯 Goals: To get a broader understanding of how software development works.<br>🎲 Fun fact: Unpopular opinion: Django > Flask :)</p>
+<p align="left">📚 I'm currently learning anything related to SWE.<br>🎯 Goals: To get a broader understanding of how software development works.<br>🎲 Fun fact: Unpopular opinion: Django > Flask :)</p>
 
 ###
 

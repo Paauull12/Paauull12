@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Third-year Computer Science student passionate about building my ideas and seeing them save time for users.<br>Currently sharpening my skills as a Fullstack & AI Intern @CodexWorks Technologies.<br>When I’m not coding, you’ll probably find me exploring the latest tech trends and learning about cool new things.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paul-dobrescu-b68b4123b/) 
 
 # 💻 Tech Stack:
